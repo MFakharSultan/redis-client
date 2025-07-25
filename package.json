@@ -48,6 +48,7 @@
     ]
   },
   "dependencies": {
+    "@paseo/redis-client": "github:MFakharSultan/redis-client",
     "debug": "^4.4.1",
     "redis": "^5.6.1"
   }
