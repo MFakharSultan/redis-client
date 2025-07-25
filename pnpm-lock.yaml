@@ -10,7 +10,7 @@ importers:
     dependencies:
       '@paseo/redis-client':
         specifier: github:MFakharSultan/redis-client
-        version: https://codeload.github.com/MFakharSultan/redis-client/tar.gz/dc9da78328eddf3b82d277f58f9bf3c0a6b63df3
+        version: https://codeload.github.com/MFakharSultan/redis-client/tar.gz/a0e22313de7f832a123a11442416fac3622f396f
       debug:
         specifier: ^4.4.1
         version: 4.4.1
@@ -355,8 +355,8 @@ packages:
     resolution: {integrity: sha512-oGB+UxlgWcgQkgwo8GcEGwemoTFt3FIO9ababBmaGwXIoBKZ+GTy0pP185beGg7Llih/NSHSV2XAs1lnznocSg==}
     engines: {node: '>= 8'}
 
-  '@paseo/redis-client@https://codeload.github.com/MFakharSultan/redis-client/tar.gz/dc9da78328eddf3b82d277f58f9bf3c0a6b63df3':
-    resolution: {tarball: https://codeload.github.com/MFakharSultan/redis-client/tar.gz/dc9da78328eddf3b82d277f58f9bf3c0a6b63df3}
+  '@paseo/redis-client@https://codeload.github.com/MFakharSultan/redis-client/tar.gz/a0e22313de7f832a123a11442416fac3622f396f':
+    resolution: {tarball: https://codeload.github.com/MFakharSultan/redis-client/tar.gz/a0e22313de7f832a123a11442416fac3622f396f}
     version: 0.1.0
 
   '@pkgr/core@0.2.9':
@@ -2385,7 +2385,7 @@ snapshots:
       '@nodelib/fs.scandir': 2.1.5
       fastq: 1.19.1
 
-  '@paseo/redis-client@https://codeload.github.com/MFakharSultan/redis-client/tar.gz/dc9da78328eddf3b82d277f58f9bf3c0a6b63df3':
+  '@paseo/redis-client@https://codeload.github.com/MFakharSultan/redis-client/tar.gz/a0e22313de7f832a123a11442416fac3622f396f':
     dependencies:
       debug: 4.4.1
       redis: 5.6.1
